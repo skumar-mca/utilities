@@ -9,7 +9,7 @@
     "@material-ui/icons": "~4.9.1",
     "@material-ui/lab": "~4.0.0-alpha.56",
     "lodash": "~4.17.19",
-    "moment": "~2.24.0",
+    "moment": "~2.29.4",
     "moment-timezone": "~0.5.31",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",

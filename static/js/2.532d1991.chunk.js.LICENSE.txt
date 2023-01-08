@@ -4,20 +4,6 @@ object-assign
 @license MIT
 */
 
-/*!
- * pluralizer <https://github.com/derzunov/pluralizer>
- *
- * Copyright (c) 2016, Dmitry Erzunov.
- * Licensed under the MIT License.
- */
-
-/*!
- * translator <https://github.com/derzunov/translator>
- *
- * Copyright (c) 2018, Dmitry Erzunov.
- * Licensed under the MIT License.
- */
-
 /**
  * @license
  * Lodash <https://lodash.com/>
